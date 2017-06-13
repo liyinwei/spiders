@@ -45,7 +45,7 @@ When contributing to this repository, you can first discuss the change you wish 
 
 # License
 
-This project is licensed under the [GNU General Public License v3.0](http://www.gnu.org/licenses/gpl-3.0.html) License - see the [LICENSE](https://github.com/liyinwei/copper_price_forecast/blob/master/LICENSE) file for details.
+This project is licensed under the [GNU General Public License v3.0](http://www.gnu.org/licenses/gpl-3.0.html) License - see the [LICENSE](https://github.com/liyinwei/spiders/blob/master/LICENCE) file for details.
 
 # Acknowledgments
 
