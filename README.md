@@ -16,9 +16,9 @@ The motivation of launching this project is that data is playing more and more i
 # Structure(Spider List)
 
 - [shfe](https://github.com/liyinwei/spiders/tree/master/shfe): Crawling the copper futures prices from [Shanghai Futures Exchange](http://www.shfe.com.cn/)
-  - **Desc:**：Daily futures exchanging data from [Shanghai Futures Exchange](http://www.shfe.com.cn/)
-  - **Data Page:** http://www.shfe.com.cn/statements/dataview.html?paramid=kx
-  - **Url:** "http://www.shfe.com.cn/data/dailydata/kx/kx" + exchange_date + ".dat"
+  - **desc:**：Daily futures exchanging data from [Shanghai Futures Exchange](http://www.shfe.com.cn/)
+  - **data page:** http://www.shfe.com.cn/statements/dataview.html?paramid=kx
+  - **url:** "http://www.shfe.com.cn/data/dailydata/kx/kx" + exchange_date + ".dat"
   - **data description:** @see [table definition](https://github.com/liyinwei/spiders/blob/master/shfe/data_desc.sql)
 
 # Running
