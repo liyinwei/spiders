@@ -196,9 +196,9 @@ if __name__ == '__main__':
     # MySQL host
     HOST = 'mysqlhost'
     # MySQL username
-    USER = 'cvte'
+    USER = 'db_user'
     # MySQL password
-    PASSWORD = 'cvte@cvte'
+    PASSWORD = 'db_pwd'
     # MySQL database name
     DATABASE = 'dataset'
     # 获取待爬取的日期列表
